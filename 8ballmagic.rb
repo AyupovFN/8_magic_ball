@@ -2,7 +2,7 @@
 # Игра волшебный шар.
 
 # Массив приветствий.
-greatings = [
+greetings = [
   "Привет",
   "гутен таг",
   "Салам",
@@ -22,7 +22,6 @@ greatings = [
   "Bonjour",
   "Salve",
   "Hello",
-
 ]
 
 # Объявили переменную answers и записали в неё массив строк
@@ -52,10 +51,9 @@ answers= [
 ]
 
 # Случайное приветствие из массива.
-puts greatings.sample
+puts greetings.sample
 
 # Задержка времени, для загадочности.
 sleep 2
-
 # Случайный вариант ответа шара.
 puts answers.sample
