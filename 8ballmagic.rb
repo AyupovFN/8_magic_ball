@@ -18,7 +18,7 @@ greetings = [
   "Ни хау",
   "алоха",
   "камуста",
-  "Hello",
+  "Исямесез",
   "Bonjour",
   "Salve",
   "Hello",
